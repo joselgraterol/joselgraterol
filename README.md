@@ -8,7 +8,7 @@ Hi there! I’m a passionate learner who loves to explore new things. I’ve bee
 
 * 🌍  I'm based in Venezuela<!-- * 🖥️  See my portfolio at [joselgraterol](http://joselgraterol.github.io/portfolio/) -->
 * ✉️  You can contact me at [joselgraterolc.8@gmail.com](mailto:joselgraterolc.8@gmail.com)
-* 🧠  I'm currently learning back-end development
+* 🧠  CL/ Continuous Learning 
 * 🤝  I'm open to collaborating
 
 ### I mostly use the following technologies
